@@ -56,6 +56,8 @@ Je suis un ingénieur électronique enthousiaste avec une vaste expérience dans
 ## ⚡ Statistiques GitHub
 ![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=gildas167&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildas167&layout=compact&theme=radical)
+
 ## Expériences Professionnelles
 
 ### TIA Engineering & Services

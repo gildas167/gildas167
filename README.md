@@ -1,4 +1,4 @@
-# Bienvenue 👋, Je m'appelle Gildas
+# Bienvenue 👋, Je suis Gildas
 
 Je suis un ingénieur électronique enthousiaste avec une vaste expérience dans le domaine. Mon expertise s'étend à une gamme impressionnante de compétences techniques, notamment Arduino, ESP32, ESP8266, PIC MCU, conception de circuits, conception PCB, interface d'affichage, IoT, capteurs, et interface d'actionneur, entre autres.
 
